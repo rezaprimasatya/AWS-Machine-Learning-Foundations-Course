@@ -1,4 +1,4 @@
-[![IMAGE_ALT](https://png.pngtree.com/element_our/md/20180506/md_5aeee5973210e.jpg)](https://www.youtube.com/watch?v=lutsouJpr7E)
+[![IMAGE_ALT]](https://www.youtube.com/watch?v=lutsouJpr7E)
 
 *Welcome to the introduction to machine learning lesson!*<br />
 
@@ -13,3 +13,7 @@ Machine learning is creating rapid and exciting changes across all levels of soc
 Machine learning is a complex subject area. Our goal in this lesson is to introduce you to some of the most common terms and ideas used in machine learning. I will then walk you through the different steps involved in machine learning and finish with a series of examples that use machine learning to solve real-world situations.
 <br />
 Let's look at how the lesson outline.
+<br />
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=6jOCiXdcg-w)
+
