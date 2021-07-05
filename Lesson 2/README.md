@@ -1,6 +1,6 @@
 [![IMAGE_ALT](https://png.pngtree.com/element_our/md/20180506/md_5aeee5973210e.jpg)](https://www.youtube.com/watch?v=lutsouJpr7E)
 
-*italic*Welcome to the introduction to machine learning lesson!<br />
+*Welcome to the introduction to machine learning lesson!*<br />
 
 Machine learning is creating rapid and exciting changes across all levels of society.<br />
 
